@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674059816984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674059858706
+  login: 1674059761538
+money: '0'
+last-account-name: IronGun
+logoutlocation:
+  world: 928f6a5f-c1a8-4cb6-a46d-f76f589a7af7
+  world-name: world
+  x: -239.48630837517334
+  y: 70.0
+  z: -48.14118968157626
+  yaw: 3.029359817504883
+  pitch: -2.3814613819122314
+lastlocation:
+  world: a6b128d3-d17b-4bfa-b0b0-91bf0d994ad2
+  world-name: world_nether
+  x: -29.5
+  y: 128.0
+  z: -5.5
+  yaw: 0.0
+  pitch: 0.0
